@@ -1,11 +1,17 @@
 # myTheme
 
+## Tutorial and Documentation
+
+- [Bootstrap Official Theming Documenation](https://getbootstrap.com/docs/4.1/getting-started/theming/)
+- [Get Bootstrap](https://getbootstrap.com/)
+- [How to Create a Custom Boostrap Theme from Scratch](https://designmodo.com/create-bootstrap-theme/)
+- [Slate from Bootswatch - the color theme I want](https://bootswatch.com/slate/)
+
 ## Resources on the Intraweb
 
 **Bootstrap Magic 4.0**
 https://pikock.github.io/bootstrap-magic/index.html
 "Live preview, live HTML coding to help you create your Bootstrap 4.0 theme direclty in your browser"
-
 
 **Bootstrap Cheat Sheet**
 https://hackr.io/blog/bootstrap-cheat-sheet
@@ -18,7 +24,6 @@ https://themes.getbootstrap.com/guide/
 **How to Create Bootstrap Theme from Scratch**
 https://www.webnots.com/beginners-guide-to-create-bootstrap-theme-from-scratch/
 "let us explore more on how to create Bootstrap theme from scratch using version 4."
-
 
 **How to Create a Custom Bootstrap Theme from Scratch** by Sam Norton on May 20, 2020
 https://designmodo.com/create-bootstrap-theme/
